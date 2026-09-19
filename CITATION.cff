@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository or its findings, please cite the associated publication below."
+title: "Evaluation of Tournament MSC 2025 Mobile Legends: Bang Bang"
+type: software
+authors:
+  - family-names: "Firmansyah"
+    given-names: "Dzaky Fadli"
+    affiliation: "Universitas Amikom Purwokerto"
+  - family-names: "Kuncoro"
+    given-names: "Adam Prayogo"
+    affiliation: "Universitas Amikom Purwokerto"
+  - family-names: "Riyanto"
+    affiliation: "Universitas Amikom Purwokerto"
+repository-code: "https://github.com/z4fL/evaluation-of-msc2025"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Match Outcome Prediction in Draft Pick and In-game Phases of MSC 2025 Mobile Legends using Random Forest and XGBoost"
+  authors:
+    - family-names: "Firmansyah"
+      given-names: "Dzaky Fadli"
+      affiliation: "Universitas Amikom Purwokerto"
+    - family-names: "Kuncoro"
+      given-names: "Adam Prayogo"
+      affiliation: "Universitas Amikom Purwokerto"
+    - family-names: "Riyanto"
+      affiliation: "Universitas Amikom Purwokerto"
+  journal: "Journal of Applied Informatics and Computing (JAIC)"
+  volume: 9
+  issue: 6
+  start: 3892
+  end: 3903
+  year: 2025
+  doi: "10.30871/jaic.v9i6.11658"
+  issn: "2548-6861"
