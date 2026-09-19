@@ -151,6 +151,8 @@ No ownership of third-party data, match recordings, game assets, or other extern
 
 ## License
 
-No separate open-source license is granted for the contents of this repository unless otherwise stated.
+The **source code** in this repository (notebook, scripts) is licensed under the [MIT License](LICENSE), unless otherwise stated. You are free to use, modify, and redistribute the code with attribution.
 
-The repository is published as a **research artifact associated with the scientific publication**. The rights to third-party data, content, and resources referenced by the research remain with their respective owners.
+The **research paper** associated with this repository is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/), as required by the publishing journal (JAIC). See the [publication](https://doi.org/10.30871/jaic.v9i6.11658) for details.
+
+Third-party data and sources are not included in this repository, see the [Dataset](#dataset) section above.
